@@ -1,3 +1,2 @@
-This is my public CDN for using Font Awesome Pro icons.  
-Use the full CDN link for all premium icons.  
-You can also use only the CSS or JS files separately if needed.
+# Font Awesome Pro Icons CDN
+Public CDN to use Font Awesome Pro (Premium) icons with HTML. Includes optional CSS and JS support.
